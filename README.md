@@ -49,8 +49,9 @@ Visit `http://localhost:3000` to use the app locally.
 
 - **Chirag Bhoi**
 - 📧 [mr.chiragbhoi2003@gmail.com](mailto:mr.chiragbhoi2003@gmail.com)
-- 🔗 [GitHub](https://github.com/chiragbhoi01) | [LinkedIn](https://linkedin.com/in/chiragbhoi01)
-
+- 🔗 [GitHub](https://github.com/chiragbhoi01) 
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/chiragbhoi01)
+-🌐 [Portfolio](https://chiragbhoimarshal.netlify.app)
 ---
 
 ## 📄 License
